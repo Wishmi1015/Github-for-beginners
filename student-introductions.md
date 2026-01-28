@@ -16,9 +16,13 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 
 <!-- Add your introduction below this line -->
 
-### [Your Name Here]
-- **GitHub Username:** @yourusername
-- **Location:** 
+### [Wishmi]
+- **GitHub Username:** @Wishmi1015
+- **Location:** UOR
+- **Background:** FMIS student
+- **Learning Goals:** github
+- **Fun Fact:** 
+- **Date Added:** 28/01/2026
 - **Background:** 
 - **Learning Goals:** 
 - **Fun Fact:** 
